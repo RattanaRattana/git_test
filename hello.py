@@ -12,3 +12,4 @@ x = np.var(speed)
 print(x)
 print(x+2)
 # change from mac pc
+# change from labpc
