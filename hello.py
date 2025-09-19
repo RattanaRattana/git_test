@@ -11,3 +11,4 @@ speed = [31,111,138,28,59,77,97]
 x = np.var(speed)
 print(x)
 print(x+2)
+# change from mac pc
